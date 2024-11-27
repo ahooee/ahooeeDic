@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/mostatil_sarsafhe_khakestari">
+    <!--
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:id="@+id/li0"
+        android:orientation="horizontal"
+        >
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv0"
+            android:text="در حال جستجو"
+            />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:id="@+id/li1"
+        android:orientation="horizontal"
+        >
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv1"
+            android:text="لطفا شکیبا باشید"
+            />
+
+            -->
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layoutDirection="rtl"
+        android:orientation="vertical"
+        android:gravity="center"
+
+        >
+
+    <ir.linuxian.wwd.customviews.MyView
+        android:id="@+id/myv"
+        android:layout_width="150sp"
+        android:layout_height="150sp"
+        android:layoutDirection="ltr"
+        />
+
+        <TextView
+            android:paddingTop="2sp"
+            android:paddingBottom="2sp"
+            android:paddingStart="8sp"
+            android:paddingEnd="8sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginTop="5sp"
+            android:id="@+id/tv1"
+            android:layoutDirection="rtl"
+            android:text="@string/cancel_search"
+            android:textSize="25sp"
+            android:textColor="#FF5cff7c"
+            android:background="@drawable/mostatil_sarsafhe"
+
+            />
+                </LinearLayout>
+
+
+<!--
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+-->
+
+
+</LinearLayout>

@@ -1,0 +1,53 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable-v24/mostatil_abi.xml" value="0.1775" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable-v24/mostatil_siah.xml" value="0.17" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/line.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/line_drawable.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_abi.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_abi_padded.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_abi_sarsafhe.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_amoozesh_jadval.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_amoozesh_matn.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_khakestari.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_sabz.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_sabz_kamrang.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_sarsafhe.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_sarsafhe_khakestari.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_sefid.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_siah.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_siah_desc.xml" value="0.1995" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_soorati.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/mostatil_zereshki.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/sabz_3d_amood.xml" value="0.1795" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/thumb.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/drawable/thumb_drawable.xml" value="0.1295" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_entekhab.xml" value="0.1585612968591692" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_find.xml" value="0.1585612968591692" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_loading.xml" value="0.18020833333333333" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_main.xml" value="0.18072916666666666" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_main_linear.xml" value="1.08125" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_search.xml" value="0.13994565217391305" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/activity_select.xml" value="0.1585612968591692" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/desc_item_layout.xml" value="0.1796875" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/fehrest_item_layout.xml" value="0.17083333333333334" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/fragment_desc.xml" value="0.1585612968591692" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/fragment_fehrest.xml" value="0.13994565217391305" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/fragment_find.xml" value="0.17083333333333334" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/fragment_search.xml" value="0.13994565217391305" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/item_layout.xml" value="0.1" />
+        <entry key="../../../../media/mohammad/HOME240/AndroidStudioProjects/WWD/app/src/main/res/layout/progress_dialog.xml" value="0.13994565217391305" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
